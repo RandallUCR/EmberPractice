@@ -1,5 +1,10 @@
 {{!-- The following component displays Ember's default welcome message. --}}
-<WelcomePage />
+
+<h2>Hello {{ this.sameName }}</h2>
+<input type="text" value={{this.name}} {{on "input" this.updateName}}>
+<button {{on "click" this.hello}} >Click me</button>
+
 {{!-- Feel free to remove this! --}}
+
 
 {{outlet}}
