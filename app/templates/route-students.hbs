@@ -1,8 +1,13 @@
-<h1>Students List</h1>
-{{#each @model as |student|}}
-    {{#students-list name = student.name id = student.id }}
-    {{/students-list}}
-{{/each}}
+<div class="row">
+    <h1 class="col-md-12">Students List</h1>
+    <div class="col-md-12">
+        {{#each @model as |student|}}
+        {{#students-list name = student.name id = student.id }}
+        {{/students-list}}
+        {{/each}}
+    </div>
+</div>
+
 
 
 {{outlet}}

@@ -1,0 +1,30 @@
+@import "ember-bootstrap/bootstrap";
+@import "ember-bootstrap/functions";
+@import "ember-bootstrap/variables";
+@import "ember-bootstrap/mixins";
+
+$font: sans-serif;
+$span-size: 0.7em;
+
+h1{
+    font-family: $font;
+    text-align: center;
+}
+
+li{
+    font-weight: bold;
+    list-style-type: none;
+}
+
+span{
+    font-size: $span-size;
+}
+
+div{
+    text-align: center;
+}
+
+#students-component{
+    display: flex;
+    flex-direction: column;
+}
