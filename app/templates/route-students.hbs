@@ -1,0 +1,8 @@
+<h1>Students List</h1>
+{{#each @model as |student|}}
+    {{#students-list name = student.name id = student.id }}
+    {{/students-list}}
+{{/each}}
+
+
+{{outlet}}
