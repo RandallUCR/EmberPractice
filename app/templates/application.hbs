@@ -1,5 +1,5 @@
 {{!-- The following component displays Ember's default welcome message. --}}
-<LinkTo @route='route-students'>Add</LinkTo>
+<LinkTo @route='students'>Add</LinkTo>
 <h2>Hello {{ this.sameName }}</h2>
 <input type="text" value={{this.name}} {{on "input" this.updateName}}>
 <BsButton @type="primary" {{on "click" this.hello}}>Click me</BsButton>

@@ -1,6 +1,6 @@
 import Route from '@ember/routing/route';
 
-export default class RouteStudentsRoute extends Route {
+export default class StudentsRoute extends Route {
     model() {
         /*return [
             { name: 'Randall', id: 'B61776' },

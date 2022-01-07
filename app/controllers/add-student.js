@@ -6,6 +6,6 @@ export default class AddStudentController extends Controller {
     save(){
         //this.model.save();
         console.log('Creando...')
-        this.transitionToRoute('route-students')
+        this.transitionToRoute('students')
     }
 }
