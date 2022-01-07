@@ -3,7 +3,7 @@
     <div class="col-md-12">
         <LinkTo @route='add-student'>Add</LinkTo>
         {{#each @model as |student|}}
-        <StudentsList @name = {{student.name}} @id = {{student.id}}/>
+        <StudentsList @student = {{student}}/>
 
         {{/each}}     
     </div>

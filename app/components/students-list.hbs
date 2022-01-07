@@ -1,4 +1,5 @@
 <div>
-    <li>Hello, {{@name}}!</li>
-    <span>ID: {{@id}} </span>
+    <li>Hello, {{@student.name}}!</li>
+    <span>ID: {{@student.id}} </span>
+    <BsButton @type="danger" {{on "click" this.delete}}>Delete</BsButton>
 </div>
