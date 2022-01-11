@@ -1,0 +1,19 @@
+<div class="row">
+    <div  class="col-md-12">
+        <h1>Courses List</h1>
+        <LinkTo @route='courses.add-courses'>Add Courses</LinkTo>
+    </div>
+    <div class="col-md-12">
+        {{#each @model as |course|}}
+        <div class="d-flex justify-content-center mb-2">
+            <h4 class="ml-1">ID: {{course.id}}</h4>
+            <h4 class="ml-1">Name: {{course.name}}</h4>
+            <h4 class="ml-1">Room: {{course.room}}</h4>
+            <BsButton @type="warning" class="ml-1"><LinkTo @route='courses.edit-courses' @model={{course.id}}>Edit</LinkTo></BsButton>
+            <BsButton @type="danger" class="ml-1">Delete</BsButton>
+        </div>
+        {{/each}}
+    </div>
+</div>
+
+{{outlet}}

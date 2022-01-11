@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="col-md-12">
+        <h1>Add Course</h1>
+        <LinkTo @route='courses'>Back</LinkTo>
+    </div>
+    <div class="col-md-12 d-flex justify-content-center">
+        <form>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Course name</label>
+                <Input type="text" class="form-control" placeholder="Course name" @value={{this.model.name}} required />
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Course room</label>
+                <Input type="number" class="form-control" placeholder="Course room" @value={{this.model.room}} required/>
+            </div>
+            <button type="button" class="btn btn-primary" {{on "click" this.save}}>Submit</button>
+        </form>
+    </div>
+</div>
