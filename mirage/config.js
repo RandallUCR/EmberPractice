@@ -25,25 +25,33 @@ export default function () {
   */
 
   this.namespace = ''
-  this.get('/courses', () => {
-    return {
-      data: [
-        /*{attributes: {name: 'Algebra', room: 30} , id: 1, type: 'course' },
-        { attributes: {name: 'Historia', room: 25}, id: 2, type: 'course'  },
-        { attributes: {name: 'Calculo', room: 40}, id: 3, type: 'course'  }*/
-      ]
-    };
+  this.get('/courses', (schema, request) => {
+    return schema.courses.all();
   });
 
   this.get("/courses/:id", (schema, request) => {
     let id = request.params.id
-  
+
     return schema.courses.find(id)
   });
 
-  this.post('/courses', (schema, request) => {
-    let attr = JSON.parse(request.requestBody);
-  
+  this.post('/courses', function (schema, request) {
+    //let attr = JSON.parse(request.requestBody);
+    let attr = this.normalizedRequestAttrs();
+
     return schema.courses.create(attr);
+  });
+
+  this.del("/courses/:id", (schema, request) => {
+    let id = request.params.id
+
+    return schema.courses.find(id).destroy();
+  });
+
+  this.patch("/courses/:id", function (schema, request) {
+    let id = request.params.id;
+    let attrs = this.normalizedRequestAttrs();
+
+    return schema.courses.find(id).update(attrs);
   });
 }
