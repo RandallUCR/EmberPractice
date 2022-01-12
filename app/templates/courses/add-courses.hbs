@@ -13,7 +13,7 @@
                 <label for="exampleInputEmail1">Course room</label>
                 <Input type="number" class="form-control" placeholder="Course room" @value={{this.model.room}} required/>
             </div>
-            <button type="button" class="btn btn-primary" {{on "click" this.save}}>Submit</button>
+            <button type="button" class="btn btn-primary" {{on "click" this.save}} disabled={{this.validForm}}>Submit</button>
         </form>
     </div>
 </div>

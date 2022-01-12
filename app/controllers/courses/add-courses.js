@@ -1,12 +1,15 @@
 import Controller from '@ember/controller';
-import { action } from '@ember/object'
+import { action, computed } from '@ember/object'
 
 export default class CoursesAddCoursesController extends Controller {
-    
-    willDestroy(){
-        if(this.model.hasDirtyAttributes) { 
-            this.model.destroyRecord(); 
-        }
+
+    @computed('model.name', 'model.room')
+    get validForm() {
+      if(!this.model.name || !this.model.room){
+        return true
+      }else{
+        return false
+      }
     }
 
     @action
