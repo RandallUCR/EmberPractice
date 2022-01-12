@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38ae5efe-6c08-405f-bf6e-55b7f85924c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ember-cli" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.template-lintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/students-list.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/students-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/add-student.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/courses/add-courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/courses/edit-courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/courses/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/students.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/student.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/add-student.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/courses/add-courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/courses/edit-courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/students.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/add-student.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/application.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/courses/add-courses.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/courses/edit-courses.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/courses/index.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/students.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/ember-cli-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/optional-features.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/targets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ember-cli-build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage/scenarios/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage/serializers/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/helpers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/integration/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test-helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/controllers/add-student-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/controllers/application-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/controllers/courses-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/controllers/courses/add-courses-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/controllers/courses/edit-courses-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/controllers/courses/index-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/controllers/students-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/models/course-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/models/student-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/routes/add-student-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/routes/courses-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/routes/courses/add-courses-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/routes/courses/edit-courses-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/routes/route-students-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/.gitkeep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="23cE36wBkj85LzkChKVaZoiSbmr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.ember-template-lint" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.ember-template-lint" value="D:\Code\Ember\EmberPractice\node_modules\ember-template-lint" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38ae5efe-6c08-405f-bf6e-55b7f85924c6" name="Changes" comment="" />
+      <created>1642024772954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642024772954</updated>
+      <workItem from="1642024776081" duration="719000" />
+      <workItem from="1642025531069" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
