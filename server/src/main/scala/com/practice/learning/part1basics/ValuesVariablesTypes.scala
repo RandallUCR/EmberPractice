@@ -1,4 +1,4 @@
-package com.practice.learning
+package com.practice.learning.part1basics
 
 object ValuesVariablesTypes extends App {
   var x = 12 //val for static

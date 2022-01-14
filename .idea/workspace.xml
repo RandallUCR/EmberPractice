@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38ae5efe-6c08-405f-bf6e-55b7f85924c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/ValuesVariablesTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/exercises/MyList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/CBNvsCBV.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/DefaultArgs.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/Expressions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/Functions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/StringOps.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/ValuesVariablesTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/AbstractDataTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/AnonymousClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/Generics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/Inheritance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/MethodNotations.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/OOBasics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/Objects.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/ValuesVariablesTypes.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/ValuesVariablesTypes$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/ValuesVariablesTypes$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/ValuesVariablesTypes.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +32,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,8 +71,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="3" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,13 +84,65 @@
       <recent name="D:\Code\Ember\EmberPractice" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ValuesVariablesTypes" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.ValuesVariablesTypes" />
+  <component name="RunManager" selected="Application.AnonymousClasses">
+    <configuration name="AnonymousClasses" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.AnonymousClasses" />
       <module name="server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.learning.*" />
+          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.Generics" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.Inheritance" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.InheritanceAndTraits" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.exercises.ListTest" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.learning.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,7 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValuesVariablesTypes" />
+        <item itemvalue="Application.AnonymousClasses" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.InheritanceAndTraits" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +183,8 @@
       <updated>1642024772954</updated>
       <workItem from="1642024776081" duration="719000" />
       <workItem from="1642025531069" duration="2437000" />
-      <workItem from="1642028028123" duration="4044000" />
+      <workItem from="1642028028123" duration="4562000" />
+      <workItem from="1642088155691" duration="21786000" />
     </task>
     <servers />
   </component>
