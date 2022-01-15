@@ -5,25 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38ae5efe-6c08-405f-bf6e-55b7f85924c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/exercises/MyList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/CBNvsCBV.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/DefaultArgs.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/Expressions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/Functions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/StringOps.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part1basics/ValuesVariablesTypes.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/AbstractDataTypes.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/AnonymousClasses.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/Generics.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/Inheritance.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/MethodNotations.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/OOBasics.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/Objects.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/CaseClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part2oop/Exceptions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/AnonymousFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/HOFsCurries.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/MapFlatMapFilter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/Sequences.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/TuplesAndMaps.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/WhatsAFunction.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/ValuesVariablesTypes.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/ValuesVariablesTypes$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/ValuesVariablesTypes$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/ValuesVariablesTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/exercises/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/exercises/MyList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Cons.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Cons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Empty$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Empty$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/ListTest$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/ListTest$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/ListTest$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/ListTest$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/MyList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,13 +89,13 @@
       <recent name="D:\Code\Ember\EmberPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnonymousClasses">
-    <configuration name="AnonymousClasses" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.AnonymousClasses" />
+  <component name="RunManager" selected="Application.TuplesAndMaps">
+    <configuration name="AnonymousFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part3fp.AnonymousFunction" />
       <module name="server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="PATTERN" value="com.practice.learning.part3fp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.Generics" />
+    <configuration name="HOFsCurries" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part3fp.HOFsCurries" />
       <module name="server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="PATTERN" value="com.practice.learning.part3fp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.Inheritance" />
+    <configuration name="MapFlatMapFilter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part3fp.MapFlatMapFilter" />
       <module name="server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="PATTERN" value="com.practice.learning.part3fp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part2oop.InheritanceAndTraits" />
+    <configuration name="Sequences" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part3fp.Sequences" />
       <module name="server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.learning.part2oop.*" />
+          <option name="PATTERN" value="com.practice.learning.part3fp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.exercises.ListTest" />
+    <configuration name="TuplesAndMaps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part3fp.TuplesAndMaps" />
       <module name="server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.learning.exercises.*" />
+          <option name="PATTERN" value="com.practice.learning.part3fp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnonymousClasses" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.Generics" />
-        <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.InheritanceAndTraits" />
+        <item itemvalue="Application.TuplesAndMaps" />
+        <item itemvalue="Application.Sequences" />
+        <item itemvalue="Application.MapFlatMapFilter" />
+        <item itemvalue="Application.HOFsCurries" />
+        <item itemvalue="Application.AnonymousFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +189,8 @@
       <workItem from="1642024776081" duration="719000" />
       <workItem from="1642025531069" duration="2437000" />
       <workItem from="1642028028123" duration="4562000" />
-      <workItem from="1642088155691" duration="21786000" />
+      <workItem from="1642088155691" duration="22046000" />
+      <workItem from="1642177082744" duration="21977000" />
     </task>
     <servers />
   </component>
