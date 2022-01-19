@@ -5,124 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38ae5efe-6c08-405f-bf6e-55b7f85924c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/HandlingFailure.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/Options.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part4pm/AllThePatterns.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part4pm/ParentMatching.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part4pm/PatternsEverywhere.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/resources/Main.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Cons$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Cons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Empty$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/Empty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/ListTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/ListTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/MyList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/MyPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/exercises/MyTransformer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/CBNvsCBV$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/CBNvsCBV$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/CBNvsCBV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/DefaultArgs$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/DefaultArgs$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/DefaultArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/Expressions$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/Expressions$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/Expressions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/Functions$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/Functions$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/Functions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/StringOps$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/StringOps$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/StringOps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/ValuesVariablesTypes$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/ValuesVariablesTypes$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part1basics/ValuesVariablesTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AbstractDataTypes$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AbstractDataTypes$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AbstractDataTypes$Carnivore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AbstractDataTypes$Crocodile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AbstractDataTypes$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AbstractDataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AnonymousClasses$$anon$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AnonymousClasses$$anon$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AnonymousClasses$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AnonymousClasses$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AnonymousClasses$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AnonymousClasses$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/AnonymousClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/CaseClasses$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/CaseClasses$Person$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/CaseClasses$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/CaseClasses$UnitedKingdom$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/CaseClasses$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/CaseClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Counter$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Exceptions$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Exceptions$Calculator$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Exceptions$MathCalculationException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Exceptions$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Exceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$Bounded.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$ContravariantList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$CovariantList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$InvariantList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Generics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance$Adult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance$Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/MethodNotations$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/MethodNotations$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/MethodNotations$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/MethodNotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Novel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/OOBasics$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/OOBasics$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/OOBasics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Objects$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Objects$Person$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Objects$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Objects$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Objects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part2oop/Writer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/AnonymousFunction$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/AnonymousFunction$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/AnonymousFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/HOFsCurries$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/HOFsCurries$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/HOFsCurries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MapFlatMapFilter$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MapFlatMapFilter$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MapFlatMapFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MyFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/Sequences$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/Sequences$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/Sequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/TuplesAndMaps$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/TuplesAndMaps$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/TuplesAndMaps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/WhatsAFunction$$anon$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/WhatsAFunction$$anon$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/WhatsAFunction$$anon$3$$anon$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/WhatsAFunction$$anon$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/WhatsAFunction$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/WhatsAFunction$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/WhatsAFunction.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../practice-ember-scala" />
     <property name="node.js.detected.package.ember-template-lint" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.ember-template-lint" value="D:\Code\Ember\EmberPractice\node_modules\ember-template-lint" />
@@ -180,11 +66,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="scala_project_settings_configurable.last_selected_tab_index" value="3" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Ember\EmberPractice\server\src\main\scala\com\practice" />
       <recent name="D:\Code\Ember\EmberPractice" />
       <recent name="D:\Code\Ember\EmberPractice\server" />
       <recent name="D:\Code\Ember\EmberPractice\web" />
@@ -193,7 +80,7 @@
       <recent name="D:\Code\Ember\EmberPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatternsEverywhere">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AllThePatterns" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.learning.part4pm.AllThePatterns" />
       <module name="server" />
@@ -212,7 +99,20 @@
       <module name="server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.courses.*" />
+          <option name="PATTERN" value="com.practice.resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.resources.Main" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.resources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,19 +126,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.practice.learning.part3fp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParentMatching" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part4pm.ParentMatching" />
-      <module name="server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.learning.part4pm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PatternsEverywhere" />
         <item itemvalue="Application.CoursesResource" />
         <item itemvalue="Application.Options" />
         <item itemvalue="Application.AllThePatterns" />
-        <item itemvalue="Application.ParentMatching" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +184,8 @@
       <workItem from="1642177082744" duration="22103000" />
       <workItem from="1642432892548" duration="17884000" />
       <workItem from="1642460085133" duration="4532000" />
-      <workItem from="1642518310413" duration="1490000" />
+      <workItem from="1642518310413" duration="3382000" />
+      <workItem from="1642527134214" duration="17058000" />
     </task>
     <servers />
   </component>

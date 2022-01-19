@@ -14,11 +14,35 @@
     <artifactId>server</artifactId>
     <packaging>jar</packaging>
 
+    <properties>
+        <finchx.version>0.32.1</finchx.version>
+    </properties>
+
     <dependencies>
         <dependency>
-            <groupId>io.dropwizard</groupId>
-            <artifactId>dropwizard-core</artifactId>
-            <version>2.0.9</version>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.13.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.finagle</groupId>
+            <artifactId>finchx-core_2.13</artifactId>
+            <version>${finchx.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.finagle</groupId>
+            <artifactId>finchx-circe_2.13</artifactId>
+            <version>${finchx.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.circe</groupId>
+            <artifactId>circe-core_2.13</artifactId>
+            <version>0.14.1</version>
+        </dependency>
+        <dependency>
+            <groupId>io.circe</groupId>
+            <artifactId>circe-generic_2.13</artifactId>
+            <version>0.14.1</version>
         </dependency>
     </dependencies>
 </project>
