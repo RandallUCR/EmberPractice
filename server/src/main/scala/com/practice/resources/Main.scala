@@ -3,6 +3,7 @@ package com.practice.resources
 import io.finch._
 import cats.effect.IO
 import com.practice.resources.controllers.Courses
+import com.twitter.finagle.http.filter.Cors
 import com.twitter.finagle.http.{Request, Response}
 import com.twitter.finagle.{Http, Service}
 import com.twitter.util.Await
@@ -29,7 +30,7 @@ object Main extends App with Endpoint.Module[IO] {
 
   val courses = Courses
 
-  val api: Service[Request, Response] =
+  val api: Service[Request, Response] = {
     Bootstrap.configure(includeDateHeader = true, includeServerHeader = true)
       .serve[Text.Plain](sayHi)
       .serve[Application.Json](jsonList)
@@ -40,7 +41,16 @@ object Main extends App with Endpoint.Module[IO] {
       .serve[Application.Json](courses.editCourse)
       .serve[Application.Json](courses.delCourse)
       .toService
+  }
 
-  Await.ready(Http.server.serve(":8080", api))
+  val policy: Cors.Policy = Cors.Policy(
+    allowsOrigin = _ => Some("*"),
+    allowsMethods = _ => Some(Seq("GET", "POST", "PATCH", "DELETE")),
+    allowsHeaders = _ => Some(Seq("Accept", "Content-type"))
+  )
+
+  val corsService: Service[Request, Response] = new Cors.HttpFilter(policy).andThen(api)
+
+  Await.ready(Http.server.serve(":8080", corsService))
 
 }

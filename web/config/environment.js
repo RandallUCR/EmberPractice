@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = function(environment) {
+module.exports = function (environment) {
   let ENV = {
     modulePrefix: 'ember-practice',
     environment,
@@ -20,10 +20,10 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
-    },
-    'ember-cli-mirage': {
-      enabled: true
     }
+    /*,'ember-cli-mirage': { uncomment for using mirage
+      enabled: true
+    }*/
   };
 
   if (environment === 'development') {
@@ -32,6 +32,7 @@ module.exports = function(environment) {
     // ENV.APP.LOG_TRANSITIONS = true;
     // ENV.APP.LOG_TRANSITIONS_INTERNAL = true;
     // ENV.APP.LOG_VIEW_LOOKUPS = true;
+    ENV["ember-cli-mirage"] = { enabled: false }
   }
 
   if (environment === 'test') {
@@ -44,6 +45,7 @@ module.exports = function(environment) {
 
     ENV.APP.rootElement = '#ember-testing';
     ENV.APP.autoboot = false;
+    ENV["ember-cli-mirage"] = { enabled: true }
   }
 
   if (environment === 'production') {
