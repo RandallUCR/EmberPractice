@@ -61,5 +61,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "ember-sweetalert": "^3.1.0"
   }
 }

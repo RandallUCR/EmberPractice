@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38ae5efe-6c08-405f-bf6e-55b7f85924c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/resources/data/Connection.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/scala/com/practice/resources/controllers/Courses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/resources/controllers/Courses.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$Course$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$Course$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$CourseAttrs$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$CourseAttrs$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$CourseAttrs.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$CourseAttrs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewCourse$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewCourse$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewNormalizedResponse$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewNormalizedResponse$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewNormalizedResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NewNormalizedResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedArrayResponse$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedArrayResponse$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedArrayResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedArrayResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedResponse$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedResponse$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$NormalizedResponse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$25.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$26.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$27.class" afterDir="false" />
@@ -83,6 +68,11 @@
       <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$41$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$41$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$49$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$49$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/controllers/courses/add-courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/controllers/courses/add-courses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/templates/courses/add-courses.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/templates/courses/add-courses.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +263,8 @@
       <workItem from="1642696942522" duration="6029000" />
       <workItem from="1642708691444" duration="14176000" />
       <workItem from="1642781822205" duration="17700000" />
-      <workItem from="1643039800217" duration="14830000" />
+      <workItem from="1643039800217" duration="15003000" />
+      <workItem from="1643123964120" duration="12640000" />
     </task>
     <servers />
   </component>
