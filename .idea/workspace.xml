@@ -6,73 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="38ae5efe-6c08-405f-bf6e-55b7f85924c6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/scala/com/practice/resources/controllers/Courses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/resources/controllers/Courses.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$28.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$29.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$30.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$$anon$30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$anon$macro$107$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$anon$macro$107$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$anon$macro$117$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$anon$macro$117$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$anon$macro$125$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1$anon$macro$125$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$127$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$$anon$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$anon$macro$57$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$anon$macro$57$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$anon$macro$65$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$anon$macro$65$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$anon$macro$73$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1$anon$macro$73$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedDecoder$macro$75$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$$anon$24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$anon$macro$81$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$anon$macro$81$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$anon$macro$91$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$anon$macro$91$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$anon$macro$99$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1$anon$macro$99$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$101$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$31.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$32.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$33.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$34.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$35.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$36.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$$anon$36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$anon$macro$133$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$anon$macro$133$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$anon$macro$143$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$anon$macro$143$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$anon$macro$151$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1$anon$macro$151$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$153$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$$anon$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$anon$macro$15$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$anon$macro$15$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$anon$macro$23$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$anon$macro$23$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$anon$macro$5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1$anon$macro$5$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$25$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$$anon$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$31$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$31$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$41$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$41$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$49$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1$anon$macro$49$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses$anon$importedEncoder$macro$51$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/resources/controllers/Courses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/controllers/courses/add-courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/controllers/courses/add-courses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/templates/courses/add-courses.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/templates/courses/add-courses.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/MapFlatMapFilter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/scala/com/practice/learning/part3fp/MapFlatMapFilter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MapFlatMapFilter$.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MapFlatMapFilter$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MapFlatMapFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/com/practice/learning/part3fp/MapFlatMapFilter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,20 +87,7 @@
       <recent name="D:\Code\Ember\EmberPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AllThePatterns" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part4pm.AllThePatterns" />
-      <module name="server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.learning.part4pm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MapFlatMapFilter">
     <configuration name="CoursesResource" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.courses.CoursesResource" />
       <module name="server" />
@@ -184,6 +107,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.practice.resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapFlatMapFilter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.learning.part3fp.MapFlatMapFilter" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.learning.part3fp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapFlatMapFilter" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PatternsEverywhere" />
         <item itemvalue="Application.CoursesResource" />
         <item itemvalue="Application.Options" />
-        <item itemvalue="Application.AllThePatterns" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +200,35 @@
       <workItem from="1642708691444" duration="14176000" />
       <workItem from="1642781822205" duration="17700000" />
       <workItem from="1643039800217" duration="15003000" />
-      <workItem from="1643123964120" duration="12640000" />
+      <workItem from="1643123964120" duration="12908000" />
+      <workItem from="1643215066843" duration="2532000" />
+      <workItem from="1643731221749" duration="10000" />
+      <workItem from="1644427866496" duration="415000" />
+      <workItem from="1644870075278" duration="617000" />
+      <workItem from="1644883273723" duration="643000" />
+      <workItem from="1644949680261" duration="745000" />
+      <workItem from="1644970199493" duration="1434000" />
+      <workItem from="1645025734462" duration="12448000" />
+      <workItem from="1645115838513" duration="3579000" />
+      <workItem from="1645194118050" duration="3429000" />
+      <workItem from="1645458857090" duration="653000" />
+      <workItem from="1645553193309" duration="908000" />
+      <workItem from="1645628338794" duration="682000" />
+      <workItem from="1645734856799" duration="682000" />
+      <workItem from="1645809438027" duration="609000" />
+      <workItem from="1646083567369" duration="2139000" />
+      <workItem from="1646148884094" duration="2018000" />
+      <workItem from="1646161239604" duration="1373000" />
+      <workItem from="1646235997166" duration="1237000" />
+      <workItem from="1646321686446" duration="2092000" />
+      <workItem from="1646405817771" duration="1319000" />
+      <workItem from="1646667165453" duration="1970000" />
+      <workItem from="1646753898499" duration="635000" />
+      <workItem from="1646839737348" duration="1383000" />
+      <workItem from="1646926606054" duration="639000" />
+      <workItem from="1647036494428" duration="872000" />
+      <workItem from="1647272040871" duration="866000" />
+      <workItem from="1647277546160" duration="595000" />
     </task>
     <servers />
   </component>
